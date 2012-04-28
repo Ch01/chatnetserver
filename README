@@ -1,0 +1,4 @@
+Chanet is a simple multi-user chat server
+
+compile:
+c++ chatnet.cpp main.cpp -o chatnetserver -lpthread
